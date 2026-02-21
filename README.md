@@ -1,16 +1,13 @@
-## Hi there 👋
+# Paraskevi Tsichlakidou
 
-<!--
-**Tsichlakidou/Tsichlakidou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical & Computer Engineering (BSc + Integrated MSc) • Remote Sensing / GIS • Google Earth Engine
 
-Here are some ideas to get you started:
+## Featured project
+**Land Cover Change Analysis in Kozani (2000–2018)**  
+Google Earth Engine (JavaScript) + QGIS outputs.  
+Repo: https://github.com/Tsichlakidou/land-cover-change-kozani
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Google Earth Engine (GEE), Remote Sensing, Land Cover Classification
+- GIS: QGIS
+- JavaScript (GEE)
